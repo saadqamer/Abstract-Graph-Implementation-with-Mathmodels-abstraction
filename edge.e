@@ -6,7 +6,6 @@ note
 		An edge can be created from two vertices 
 		or from a tuple (see convert).
 		]"
-	author: "JSO and JW"
 	date: "$Date$"
 	revision: "$Revision$"
 
