@@ -15,7 +15,6 @@
 				Vertices and Edges must be attached.
 	]"
 	ca_ignore: "CA023", "CA023: Undeed parentheses", "CA017", "CA107: Empty compound after then part of if"
-	author: "JSO and JW"
 	date: "$Date$"
 	revision: "$Revision$"
 
