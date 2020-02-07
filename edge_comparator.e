@@ -7,7 +7,7 @@ note
 			a_sorter: DS_ARRAY_QUICK_SORTER [EDGE[G]]
 		An edge e1 < e2 iff  e1.destination.item < e2.destination.item
 		]"
-	author: "JSO and JW"
+	
 	date: "$Date$"
 	revision: "$Revision$"
 
