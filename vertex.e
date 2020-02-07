@@ -10,7 +10,6 @@
 		sorted based on comparable items in destination vertices. This allows
 		for a unique ordering as in breadth first searches etc.
 			]"
-	author: "JSO and JW"
 	date: "$Date$"
 	revision: "$Revision$"
 	ca_ignore: "CA033", "CA085"
